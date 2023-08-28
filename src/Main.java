@@ -24,5 +24,6 @@ public class Main {
             resultat = sum/ ++antalTal;
             System.out.println("Gennemsnittet af alle tal er: " + resultat);
         }
+
     }
 }
