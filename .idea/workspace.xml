@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23e05776-a614-4ed7-b93d-1f5ce8e040a7" name="Changes" comment="virker med decimaltal, inputMismatchException og exit når man trykker på &quot;q&quot;" />
+    <list default="true" id="23e05776-a614-4ed7-b93d-1f5ce8e040a7" name="Changes" comment="virker med decimaltal, inputMismatchException og exit når man trykker på &quot;q&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +72,8 @@
       <workItem from="1693214141802" duration="9000" />
       <workItem from="1693214161439" duration="416000" />
       <workItem from="1693214594768" duration="1457000" />
+      <workItem from="1693216096414" duration="41000" />
+      <workItem from="1693216159415" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="virker med decimaltal">
       <created>1693213937019</created>
@@ -99,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693216058967</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="virker med decimaltal, inputMismatchException og exit når man trykker på &quot;q&quot;">
+      <created>1693216129991</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693216129991</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
