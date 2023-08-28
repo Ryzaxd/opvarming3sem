@@ -5,10 +5,6 @@ import static java.lang.System.in;
 
 public class Main {
 
-    // TODO Få det til at virke med decimaltal (tjek)
-    // TODO Få det til ikke at crashe med en runtime exception, når man ved en fejl indtaster x (tjek)
-    // TODO Få det til at stoppe når man skriver stop
-
     public static void main(String[] args) {
         System.out.println("Hej med dig!");
         Scanner scanner = new Scanner(in);
